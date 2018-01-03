@@ -1,3 +1,4 @@
+<?php require_once('game.php'); ?>
 <!DOCTYPE html>
 <html>
   <head>
@@ -16,5 +17,7 @@
         </ul>
       </div>
     </header>
+    <h1>game!</h1>
+    <h1>judge...   <?php echo $hogera ?></h1>
   </body>
 </html>
